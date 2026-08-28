@@ -1,6 +1,7 @@
 # Mining Server API
 
 A RESTful API built with **FastAPI**, **SQLAlchemy**, and **PostgreSQL** for managing mining servers.
+THIS SERVICE IS RUNNING PUBLICKLY IN THS URL https://mining-server-api-2.onrender.com/docs?utm_source=chatgpt.com
 
 ## Features
 
