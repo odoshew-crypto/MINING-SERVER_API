@@ -1,0 +1,6 @@
+__pycache__/
+mining/
+.env
+*.db
+*.sqlite
+*.sqlite3
